@@ -19,5 +19,47 @@
     "year": 2025,
     "meeting_key": 1267,
     "file": "races/2025-dutch.json"
+  },
+  {
+    "id": "2025-singapore",
+    "label": "Singapore Grand Prix 2025",
+    "year": 2025,
+    "meeting_key": 1270,
+    "file": "races/2025-singapore.json"
+  },
+  {
+    "id": "2025-chinese",
+    "label": "Chinese Grand Prix 2025",
+    "year": 2025,
+    "meeting_key": 1255,
+    "file": "races/2025-chinese.json"
+  },
+  {
+    "id": "2025-bahrain",
+    "label": "Bahrain Grand Prix 2025",
+    "year": 2025,
+    "meeting_key": 1257,
+    "file": "races/2025-bahrain.json"
+  },
+  {
+    "id": "2025-saudi-arabian",
+    "label": "Saudi Arabian Grand Prix 2025",
+    "year": 2025,
+    "meeting_key": 1258,
+    "file": "races/2025-saudi-arabian.json"
+  },
+  {
+    "id": "2025-miami",
+    "label": "Miami Grand Prix 2025",
+    "year": 2025,
+    "meeting_key": 1259,
+    "file": "races/2025-miami.json"
+  },
+  {
+    "id": "2025-emilia-romagna",
+    "label": "Emilia Romagna Grand Prix 2025",
+    "year": 2025,
+    "meeting_key": 1260,
+    "file": "races/2025-emilia-romagna.json"
   }
 ]
